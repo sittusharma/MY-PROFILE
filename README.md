@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-👨‍💻 Welcome to my coding realm! I am a Second Year Student at GGCT Jabalpur, passionate about coding and creating captivating web experiences.
+👨‍💻 Welcome to my coding realm! I am a final Year Student at GGCT Jabalpur, passionate about coding and creating captivating web experiences.
 
 🎓 I have a strong foundation in **C++ programming**, **basic data structures and algorithms (DSA)**, and **object-oriented programming (OOP)**. I also possess basic skills in **website development**, making me a versatile candidate for software development roles.
 
